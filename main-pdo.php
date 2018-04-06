@@ -1,5 +1,11 @@
 <?php
 
+/******************************************
+FILE: main-pdo.php (from main.php)
+DESCR: export mysql table to excel file
+@Author SauL182
+*******************************************/
+
 $host = '';
 $port = '';
 $dbName = '';
